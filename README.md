@@ -1,2 +1,2 @@
-# Repo0
+# Lab2
 First Repo on Github
